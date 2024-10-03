@@ -1,0 +1,15 @@
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Lap03-01\bin\Debug\Lap03-01.exe.config
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Lap03-01\bin\Debug\Lap03-01.exe
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Lap03-01\bin\Debug\Lap03-01.pdb
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Lap03-01\bin\Debug\Interop.WMPLib.dll
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Lap03-01\bin\Debug\AxInterop.WMPLib.dll
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Lap03-01\obj\Debug\Lab03-01.csproj.AssemblyReference.cache
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Lap03-01\obj\Debug\Interop.WMPLib.dll
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Lap03-01\obj\Debug\AxInterop.WMPLib.dll
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Lap03-01\obj\Debug\Lab03-01.csproj.ResolveComReference.cache
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Lap03-01\obj\Debug\Lap03_01.frm_xemvideo.resources
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Lap03-01\obj\Debug\Lap03_01.Properties.Resources.resources
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Lap03-01\obj\Debug\Lab03-01.csproj.GenerateResource.cache
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Lap03-01\obj\Debug\Lab03-01.csproj.CoreCompileInputs.cache
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Lap03-01\obj\Debug\Lap03-01.exe
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Lap03-01\obj\Debug\Lap03-01.pdb

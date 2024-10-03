@@ -1,7 +1,0 @@
-D:\code\winform c#\NguyenDucTien\NguyenDucTien\bin\Debug\NguyenDucTien.exe.config
-D:\code\winform c#\NguyenDucTien\NguyenDucTien\bin\Debug\NguyenDucTien.exe
-D:\code\winform c#\NguyenDucTien\NguyenDucTien\bin\Debug\NguyenDucTien.pdb
-D:\code\winform c#\NguyenDucTien\NguyenDucTien\obj\Debug\Bai1.csproj.AssemblyReference.cache
-D:\code\winform c#\NguyenDucTien\NguyenDucTien\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
-D:\code\winform c#\NguyenDucTien\NguyenDucTien\obj\Debug\NguyenDucTien.exe
-D:\code\winform c#\NguyenDucTien\NguyenDucTien\obj\Debug\NguyenDucTien.pdb

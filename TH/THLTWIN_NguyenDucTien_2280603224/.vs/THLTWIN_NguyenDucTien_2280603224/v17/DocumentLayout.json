@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\winformc#\\winformc-\\TH\\THLTWIN_NguyenDucTien_2280603224\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C66D4C92-0B5D-4D8A-9E92-076581CA9EFC}|Lab03-03\\Lab03-03.csproj|D:\\code\\winformc#\\winformc-\\TH\\THLTWIN_NguyenDucTien_2280603224\\lab03-03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C66D4C92-0B5D-4D8A-9E92-076581CA9EFC}|Lab03-03\\Lab03-03.csproj|solutionrelative:lab03-03\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66D4C92-0B5D-4D8A-9E92-076581CA9EFC}|Lab03-03\\Lab03-03.csproj|D:\\code\\winformc#\\winformc-\\TH\\THLTWIN_NguyenDucTien_2280603224\\lab03-03\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C66D4C92-0B5D-4D8A-9E92-076581CA9EFC}|Lab03-03\\Lab03-03.csproj|solutionrelative:lab03-03\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{310EFE57-3D63-4914-B94A-D751CBF335DE}|Lap03-01\\Lab03-01.csproj|D:\\code\\winformc#\\winformc-\\TH\\THLTWIN_NguyenDucTien_2280603224\\lap03-01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{310EFE57-3D63-4914-B94A-D751CBF335DE}|Lap03-01\\Lab03-01.csproj|solutionrelative:lap03-01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2671339-C059-413D-8265-9C65C4933F85}|Lab03_02\\Lab03-02.csproj|d:\\code\\winformc#\\winformc-\\th\\thltwin_nguyenductien_2280603224\\lab03_02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E2671339-C059-413D-8265-9C65C4933F85}|Lab03_02\\Lab03-02.csproj|solutionrelative:lab03_02\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\code\\winformc#\\winformc-\\TH\\THLTWIN_NguyenDucTien_2280603224\\Lab03_02\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab03_02\\Form1.cs",
+              "ToolTip": "D:\\code\\winformc#\\winformc-\\TH\\THLTWIN_NguyenDucTien_2280603224\\Lab03_02\\Form1.cs [Design]",
+              "RelativeToolTip": "Lab03_02\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T05:39:18.523Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\code\\winformc#\\winformc-\\TH\\THLTWIN_NguyenDucTien_2280603224\\Lap03-01\\Form1.cs",
+              "RelativeDocumentMoniker": "Lap03-01\\Form1.cs",
+              "ToolTip": "D:\\code\\winformc#\\winformc-\\TH\\THLTWIN_NguyenDucTien_2280603224\\Lap03-01\\Form1.cs [Design]",
+              "RelativeToolTip": "Lap03-01\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T05:39:13.338Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\code\\winformc#\\winformc-\\TH\\THLTWIN_NguyenDucTien_2280603224\\Lab03-03\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Lab03-03\\Form1.Designer.cs",
+              "ToolTip": "D:\\code\\winformc#\\winformc-\\TH\\THLTWIN_NguyenDucTien_2280603224\\Lab03-03\\Form1.Designer.cs",
+              "RelativeToolTip": "Lab03-03\\Form1.Designer.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAYwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T05:06:42.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\code\\winformc#\\winformc-\\TH\\THLTWIN_NguyenDucTien_2280603224\\Lab03-03\\Form1.cs",
+              "RelativeDocumentMoniker": "Lab03-03\\Form1.cs",
+              "ToolTip": "D:\\code\\winformc#\\winformc-\\TH\\THLTWIN_NguyenDucTien_2280603224\\Lab03-03\\Form1.cs",
+              "RelativeToolTip": "Lab03-03\\Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T05:06:02.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

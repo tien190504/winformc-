@@ -1,0 +1,12 @@
+D:\code\winformc#\winformc-\LT\NguyenDucTien_Chieu3_LTWIN\QLTV\bin\Debug\QLTV.exe.config
+D:\code\winformc#\winformc-\LT\NguyenDucTien_Chieu3_LTWIN\QLTV\bin\Debug\QLTV.exe
+D:\code\winformc#\winformc-\LT\NguyenDucTien_Chieu3_LTWIN\QLTV\bin\Debug\QLTV.pdb
+D:\code\winformc#\winformc-\LT\NguyenDucTien_Chieu3_LTWIN\QLTV\obj\Debug\NguyenDucTien_QLTV.csproj.AssemblyReference.cache
+D:\code\winformc#\winformc-\LT\NguyenDucTien_Chieu3_LTWIN\QLTV\obj\Debug\QLTV.frm_Main.resources
+D:\code\winformc#\winformc-\LT\NguyenDucTien_Chieu3_LTWIN\QLTV\obj\Debug\QLTV.frm_NhanVien.resources
+D:\code\winformc#\winformc-\LT\NguyenDucTien_Chieu3_LTWIN\QLTV\obj\Debug\QLTV.frm_PhieuThuTien.resources
+D:\code\winformc#\winformc-\LT\NguyenDucTien_Chieu3_LTWIN\QLTV\obj\Debug\QLTV.Properties.Resources.resources
+D:\code\winformc#\winformc-\LT\NguyenDucTien_Chieu3_LTWIN\QLTV\obj\Debug\NguyenDucTien_QLTV.csproj.GenerateResource.cache
+D:\code\winformc#\winformc-\LT\NguyenDucTien_Chieu3_LTWIN\QLTV\obj\Debug\NguyenDucTien_QLTV.csproj.CoreCompileInputs.cache
+D:\code\winformc#\winformc-\LT\NguyenDucTien_Chieu3_LTWIN\QLTV\obj\Debug\QLTV.exe
+D:\code\winformc#\winformc-\LT\NguyenDucTien_Chieu3_LTWIN\QLTV\obj\Debug\QLTV.pdb

@@ -1,0 +1,7 @@
+D:\code\winformc#\winformc-\LT\NguyenDucTien_Chieu3_LTWIN\BaitapTHTUAN1_Bai2_NguyenDucTien\bin\Release\BaitapTHTUAN1_Bai2_NguyenDucTien.exe.config
+D:\code\winformc#\winformc-\LT\NguyenDucTien_Chieu3_LTWIN\BaitapTHTUAN1_Bai2_NguyenDucTien\bin\Release\BaitapTHTUAN1_Bai2_NguyenDucTien.exe
+D:\code\winformc#\winformc-\LT\NguyenDucTien_Chieu3_LTWIN\BaitapTHTUAN1_Bai2_NguyenDucTien\bin\Release\BaitapTHTUAN1_Bai2_NguyenDucTien.pdb
+D:\code\winformc#\winformc-\LT\NguyenDucTien_Chieu3_LTWIN\BaitapTHTUAN1_Bai2_NguyenDucTien\obj\Release\BaitapTHTUAN1_Bai2_NguyenDucTien.csproj.AssemblyReference.cache
+D:\code\winformc#\winformc-\LT\NguyenDucTien_Chieu3_LTWIN\BaitapTHTUAN1_Bai2_NguyenDucTien\obj\Release\BaitapTHTUAN1_Bai2_NguyenDucTien.csproj.CoreCompileInputs.cache
+D:\code\winformc#\winformc-\LT\NguyenDucTien_Chieu3_LTWIN\BaitapTHTUAN1_Bai2_NguyenDucTien\obj\Release\BaitapTHTUAN1_Bai2_NguyenDucTien.exe
+D:\code\winformc#\winformc-\LT\NguyenDucTien_Chieu3_LTWIN\BaitapTHTUAN1_Bai2_NguyenDucTien\obj\Release\BaitapTHTUAN1_Bai2_NguyenDucTien.pdb

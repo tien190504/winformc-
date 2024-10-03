@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\winformc#\\winformc-\\LT\\NguyenDucTien_Chieu3_LTWIN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6F8395-9FEE-417F-863B-CCC04B549EFF}|QLTV\\NguyenDucTien_QLTV.csproj|d:\\code\\winformc#\\winformc-\\lt\\nguyenductien_chieu3_ltwin\\qltv\\frm_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A6F8395-9FEE-417F-863B-CCC04B549EFF}|QLTV\\NguyenDucTien_QLTV.csproj|solutionrelative:qltv\\frm_nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6F8395-9FEE-417F-863B-CCC04B549EFF}|QLTV\\NguyenDucTien_QLTV.csproj|d:\\code\\winformc#\\winformc-\\lt\\nguyenductien_chieu3_ltwin\\qltv\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6F8395-9FEE-417F-863B-CCC04B549EFF}|QLTV\\NguyenDucTien_QLTV.csproj|solutionrelative:qltv\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6F8395-9FEE-417F-863B-CCC04B549EFF}|QLTV\\NguyenDucTien_QLTV.csproj|d:\\code\\winformc#\\winformc-\\lt\\nguyenductien_chieu3_ltwin\\qltv\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6F8395-9FEE-417F-863B-CCC04B549EFF}|QLTV\\NguyenDucTien_QLTV.csproj|solutionrelative:qltv\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6F8395-9FEE-417F-863B-CCC04B549EFF}|QLTV\\NguyenDucTien_QLTV.csproj|d:\\code\\winformc#\\winformc-\\lt\\nguyenductien_chieu3_ltwin\\qltv\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A6F8395-9FEE-417F-863B-CCC04B549EFF}|QLTV\\NguyenDucTien_QLTV.csproj|solutionrelative:qltv\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A6F8395-9FEE-417F-863B-CCC04B549EFF}|QLTV\\NguyenDucTien_QLTV.csproj|d:\\code\\winformc#\\winformc-\\lt\\nguyenductien_chieu3_ltwin\\qltv\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A6F8395-9FEE-417F-863B-CCC04B549EFF}|QLTV\\NguyenDucTien_QLTV.csproj|solutionrelative:qltv\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\code\\winformc#\\winformc-\\LT\\NguyenDucTien_Chieu3_LTWIN\\QLTV\\Database.cs",
+              "RelativeDocumentMoniker": "QLTV\\Database.cs",
+              "ToolTip": "D:\\code\\winformc#\\winformc-\\LT\\NguyenDucTien_Chieu3_LTWIN\\QLTV\\Database.cs",
+              "RelativeToolTip": "QLTV\\Database.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:59:01.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "D:\\code\\winformc#\\winformc-\\LT\\NguyenDucTien_Chieu3_LTWIN\\QLTV\\NhanVien.cs",
+              "RelativeDocumentMoniker": "QLTV\\NhanVien.cs",
+              "ToolTip": "D:\\code\\winformc#\\winformc-\\LT\\NguyenDucTien_Chieu3_LTWIN\\QLTV\\NhanVien.cs",
+              "RelativeToolTip": "QLTV\\NhanVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:58:38.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frm_Main.cs",
+              "DocumentMoniker": "D:\\code\\winformc#\\winformc-\\LT\\NguyenDucTien_Chieu3_LTWIN\\QLTV\\frm_Main.cs",
+              "RelativeDocumentMoniker": "QLTV\\frm_Main.cs",
+              "ToolTip": "D:\\code\\winformc#\\winformc-\\LT\\NguyenDucTien_Chieu3_LTWIN\\QLTV\\frm_Main.cs",
+              "RelativeToolTip": "QLTV\\frm_Main.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAwwKIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:54:38.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frm_Main.cs [Design]",
+              "DocumentMoniker": "D:\\code\\winformc#\\winformc-\\LT\\NguyenDucTien_Chieu3_LTWIN\\QLTV\\frm_Main.cs",
+              "RelativeDocumentMoniker": "QLTV\\frm_Main.cs",
+              "ToolTip": "D:\\code\\winformc#\\winformc-\\LT\\NguyenDucTien_Chieu3_LTWIN\\QLTV\\frm_Main.cs [Design]",
+              "RelativeToolTip": "QLTV\\frm_Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:54:35.573Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frm_NhanVien.cs [Design]",
+              "DocumentMoniker": "D:\\code\\winformc#\\winformc-\\LT\\NguyenDucTien_Chieu3_LTWIN\\QLTV\\frm_NhanVien.cs",
+              "RelativeDocumentMoniker": "QLTV\\frm_NhanVien.cs",
+              "ToolTip": "D:\\code\\winformc#\\winformc-\\LT\\NguyenDucTien_Chieu3_LTWIN\\QLTV\\frm_NhanVien.cs [Design]",
+              "RelativeToolTip": "QLTV\\frm_NhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:53:19.529Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

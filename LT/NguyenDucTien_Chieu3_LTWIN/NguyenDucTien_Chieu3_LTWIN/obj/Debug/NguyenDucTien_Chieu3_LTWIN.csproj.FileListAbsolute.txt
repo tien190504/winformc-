@@ -1,0 +1,7 @@
+D:\code\winformc#\winformc-\LT\NguyenDucTien_Chieu3_LTWIN\NguyenDucTien_Chieu3_LTWIN\bin\Debug\NguyenDucTien_Chieu3_LTWIN.exe.config
+D:\code\winformc#\winformc-\LT\NguyenDucTien_Chieu3_LTWIN\NguyenDucTien_Chieu3_LTWIN\bin\Debug\NguyenDucTien_Chieu3_LTWIN.exe
+D:\code\winformc#\winformc-\LT\NguyenDucTien_Chieu3_LTWIN\NguyenDucTien_Chieu3_LTWIN\bin\Debug\NguyenDucTien_Chieu3_LTWIN.pdb
+D:\code\winformc#\winformc-\LT\NguyenDucTien_Chieu3_LTWIN\NguyenDucTien_Chieu3_LTWIN\obj\Debug\NguyenDucTien_Chieu3_LTWIN.csproj.AssemblyReference.cache
+D:\code\winformc#\winformc-\LT\NguyenDucTien_Chieu3_LTWIN\NguyenDucTien_Chieu3_LTWIN\obj\Debug\NguyenDucTien_Chieu3_LTWIN.csproj.CoreCompileInputs.cache
+D:\code\winformc#\winformc-\LT\NguyenDucTien_Chieu3_LTWIN\NguyenDucTien_Chieu3_LTWIN\obj\Debug\NguyenDucTien_Chieu3_LTWIN.exe
+D:\code\winformc#\winformc-\LT\NguyenDucTien_Chieu3_LTWIN\NguyenDucTien_Chieu3_LTWIN\obj\Debug\NguyenDucTien_Chieu3_LTWIN.pdb

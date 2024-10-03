@@ -1,0 +1,10 @@
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Lab03-03\bin\Debug\Lab03-03.exe.config
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Lab03-03\bin\Debug\Lab03-03.exe
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Lab03-03\bin\Debug\Lab03-03.pdb
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Lab03-03\obj\Debug\Lab03-03.csproj.AssemblyReference.cache
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Lab03-03\obj\Debug\Lab03_03.frm_qlsv.resources
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Lab03-03\obj\Debug\Lab03_03.Properties.Resources.resources
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Lab03-03\obj\Debug\Lab03-03.csproj.GenerateResource.cache
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Lab03-03\obj\Debug\Lab03-03.csproj.CoreCompileInputs.cache
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Lab03-03\obj\Debug\Lab03-03.exe
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Lab03-03\obj\Debug\Lab03-03.pdb

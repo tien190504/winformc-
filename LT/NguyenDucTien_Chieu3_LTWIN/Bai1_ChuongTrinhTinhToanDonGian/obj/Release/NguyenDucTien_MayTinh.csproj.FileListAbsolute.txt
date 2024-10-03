@@ -1,0 +1,10 @@
+D:\code\winformc#\winformc-\LT\NguyenDucTien_Chieu3_LTWIN\Bai1_ChuongTrinhTinhToanDonGian\bin\Release\Bai1_ChuongTrinhTinhToanDonGian.exe.config
+D:\code\winformc#\winformc-\LT\NguyenDucTien_Chieu3_LTWIN\Bai1_ChuongTrinhTinhToanDonGian\bin\Release\Bai1_ChuongTrinhTinhToanDonGian.exe
+D:\code\winformc#\winformc-\LT\NguyenDucTien_Chieu3_LTWIN\Bai1_ChuongTrinhTinhToanDonGian\bin\Release\Bai1_ChuongTrinhTinhToanDonGian.pdb
+D:\code\winformc#\winformc-\LT\NguyenDucTien_Chieu3_LTWIN\Bai1_ChuongTrinhTinhToanDonGian\obj\Release\NguyenDucTien_MayTinh.csproj.AssemblyReference.cache
+D:\code\winformc#\winformc-\LT\NguyenDucTien_Chieu3_LTWIN\Bai1_ChuongTrinhTinhToanDonGian\obj\Release\Bai1_ChuongTrinhTinhToanDonGian.Form1.resources
+D:\code\winformc#\winformc-\LT\NguyenDucTien_Chieu3_LTWIN\Bai1_ChuongTrinhTinhToanDonGian\obj\Release\Bai1_ChuongTrinhTinhToanDonGian.Properties.Resources.resources
+D:\code\winformc#\winformc-\LT\NguyenDucTien_Chieu3_LTWIN\Bai1_ChuongTrinhTinhToanDonGian\obj\Release\NguyenDucTien_MayTinh.csproj.GenerateResource.cache
+D:\code\winformc#\winformc-\LT\NguyenDucTien_Chieu3_LTWIN\Bai1_ChuongTrinhTinhToanDonGian\obj\Release\NguyenDucTien_MayTinh.csproj.CoreCompileInputs.cache
+D:\code\winformc#\winformc-\LT\NguyenDucTien_Chieu3_LTWIN\Bai1_ChuongTrinhTinhToanDonGian\obj\Release\Bai1_ChuongTrinhTinhToanDonGian.exe
+D:\code\winformc#\winformc-\LT\NguyenDucTien_Chieu3_LTWIN\Bai1_ChuongTrinhTinhToanDonGian\obj\Release\Bai1_ChuongTrinhTinhToanDonGian.pdb

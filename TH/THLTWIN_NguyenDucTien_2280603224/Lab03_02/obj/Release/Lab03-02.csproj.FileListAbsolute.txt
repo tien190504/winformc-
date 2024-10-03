@@ -1,0 +1,10 @@
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Lab03_02\bin\Release\Lab03_02.exe.config
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Lab03_02\bin\Release\Lab03_02.exe
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Lab03_02\bin\Release\Lab03_02.pdb
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Lab03_02\obj\Release\Lab03-02.csproj.AssemblyReference.cache
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Lab03_02\obj\Release\Lab03_02.frm_soanthaovanban.resources
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Lab03_02\obj\Release\Lab03_02.Properties.Resources.resources
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Lab03_02\obj\Release\Lab03-02.csproj.GenerateResource.cache
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Lab03_02\obj\Release\Lab03-02.csproj.CoreCompileInputs.cache
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Lab03_02\obj\Release\Lab03_02.exe
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Lab03_02\obj\Release\Lab03_02.pdb

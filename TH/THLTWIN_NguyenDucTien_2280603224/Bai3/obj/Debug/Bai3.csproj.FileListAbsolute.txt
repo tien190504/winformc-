@@ -1,0 +1,7 @@
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Bai3\bin\Debug\Bai3.exe.config
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Bai3\bin\Debug\Bai3.exe
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Bai3\bin\Debug\Bai3.pdb
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Bai3\obj\Debug\Bai3.csproj.AssemblyReference.cache
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Bai3\obj\Debug\Bai3.csproj.CoreCompileInputs.cache
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Bai3\obj\Debug\Bai3.exe
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Bai3\obj\Debug\Bai3.pdb

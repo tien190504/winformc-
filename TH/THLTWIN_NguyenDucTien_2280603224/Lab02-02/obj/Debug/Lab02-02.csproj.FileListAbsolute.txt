@@ -1,0 +1,10 @@
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Lab02-02\bin\Debug\Lab02-02.exe.config
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Lab02-02\bin\Debug\Lab02-02.exe
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Lab02-02\bin\Debug\Lab02-02.pdb
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Lab02-02\obj\Debug\Lab02-02.csproj.AssemblyReference.cache
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Lab02-02\obj\Debug\Lab02_02.frm_QuanLyThongTinSV.resources
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Lab02-02\obj\Debug\Lab02_02.Properties.Resources.resources
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Lab02-02\obj\Debug\Lab02-02.csproj.GenerateResource.cache
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Lab02-02\obj\Debug\Lab02-02.csproj.CoreCompileInputs.cache
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Lab02-02\obj\Debug\Lab02-02.exe
+D:\code\winformc#\winformc-\TH\THLTWIN_NguyenDucTien_2280603224\Lab02-02\obj\Debug\Lab02-02.pdb
